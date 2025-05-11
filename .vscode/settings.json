@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.elf": "plist",
+    "*.scr": "mapfile",
+    "*.spr": "json",
+    "*.ld": "mapfile",
+    "xparameters.h": "c"
+  }
+}
